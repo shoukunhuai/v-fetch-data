@@ -2,6 +2,18 @@
   "name": "v-fetch-data",
   "version": "0.0.1",
   "license": "MIT",
+  "author": {
+    "name": "Shoukun Huai",
+    "email": "shoukunhuai@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoukunhuai/v-fetch-data.git"
+  },
+  "homepage": "https://github.com/shoukunhuai/v-fetch-data",
+  "bugs": {
+    "url": "https://github.com/shoukunhuai/v-fetch-data/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build"
