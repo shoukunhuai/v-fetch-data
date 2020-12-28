@@ -14,7 +14,7 @@ import VFetchData from 'v-fetch-data/src/components/FetchData.vue';
 app.component("v-fetch-data", VFetchData);
 ```
 
-User component
+Use component
 ```html
 <v-fetch-data 
   url="https://api.github.com/users" 
